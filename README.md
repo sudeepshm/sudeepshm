@@ -26,9 +26,7 @@ A Computer Science Engineering Student. Believed & Beloved in Java Backend Devel
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
-  <a href="https://github.com/sudeepshm">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  
   <a href="https://x.com/sudeepshm">
     <img src="https://img.shields.io/badge/TWITTER-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
