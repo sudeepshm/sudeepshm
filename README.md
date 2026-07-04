@@ -11,9 +11,9 @@ A Computer Science Engineering Student. Believed & Beloved in Java Backend Devel
 <br/>
 
 * 🔭 Backend Developer
-* 🌱 I'm currently working on Java applications and AI integrations.
+* 🌱 I'm currently working on Java applications
 * 💻 All of my projects are available at [https://github.com/sudeepshm](https://github.com/sudeepshm)
-* 💬 Ask me about Java, Large Language Models, and Backend Architecture.
+* 💬 Ask me about Java, Backend Architecture.
 * 📫 Reach me via email at **sudeepshm@gmail.com**
 
 <br/>
