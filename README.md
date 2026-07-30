@@ -10,10 +10,9 @@ A Computer Science Engineering Student. Believed & Beloved in Java Backend Devel
 
 <br/>
 
-* 🔭 Backend Developer
-* 🌱 I'm currently working on Java applications
+* 🔭CSE student,Researcher and intrested in  Backend Development
+* 🌱 I'm currently working on understanding llms works flows and Java applications
 * 💻 All of my projects are available at [https://github.com/sudeepshm](https://github.com/sudeepshm)
-* 💬 Ask me about Java, Backend Architecture.
 * 📫 Reach me via email at **sudeepshm@gmail.com**
 
 <br/>
